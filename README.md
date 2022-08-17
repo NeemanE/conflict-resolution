@@ -1,3 +1,3 @@
 # conflict-resolution
 
-## change made in browser
+## change made locally
